@@ -31,6 +31,13 @@ The in your base class:
  
  1;
 
+Then you can use it:
+
+ use Alien::Libfoo;
+ 
+ my $cflags = Alien::Libfoo->alt('foo1')->cflags;
+ my $libs   = Alien::Libfoo->alt('foo1')->libs;
+
 =head1 DESCRIPTION
 
 Some packages come with multiple libraries, and multiple C<.pc> files to

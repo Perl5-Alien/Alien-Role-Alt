@@ -11,6 +11,7 @@ my $post_diag;
 
 $modules{$_} = $_ for qw(
   Alien::Base
+  Class::Method::Modifiers
   ExtUtils::MakeMaker
   Role::Tiny
   Test2::V0

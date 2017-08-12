@@ -20,7 +20,7 @@ From your L<alienfile>
    pkg_name => [ 'libfoo', 'libbar', ],
  );
 
-The in your base class:
+Then in your base class:
 
  package Alien::Libfoo;
  

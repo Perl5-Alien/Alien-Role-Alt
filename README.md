@@ -12,7 +12,7 @@ From your [alienfile](https://metacpan.org/pod/alienfile)
       pkg_name => [ 'libfoo', 'libbar', ],
     );
 
-The in your base class:
+Then in your base class:
 
     package Alien::Libfoo;
     

@@ -32,6 +32,10 @@ Then you can use it:
 
 # DESCRIPTION
 
+**NOTE**: The capabilities that used to be provided by this role have been
+moved into [Alien::Base](https://metacpan.org/pod/Alien::Base)'s core class.  This is an empty role provided
+for compatibility only.  New code should not be using this class.
+
 Some packages come with multiple libraries, and multiple `.pc` files to
 use with them.  This [Role::Tiny](https://metacpan.org/pod/Role::Tiny) role can be used with [Alien::Base](https://metacpan.org/pod/Alien::Base)
 to access different configurations.

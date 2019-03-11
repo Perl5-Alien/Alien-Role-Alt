@@ -1,6 +1,6 @@
 # Alien::Role::Alt [![Build Status](https://secure.travis-ci.org/Perl5-Alien/Alien-Role-Alt.png)](http://travis-ci.org/Perl5-Alien/Alien-Role-Alt)
 
-Alien::Base role that supports alternates
+(Deprecated) Alien::Base role that supports alternates
 
 # SYNOPSIS
 

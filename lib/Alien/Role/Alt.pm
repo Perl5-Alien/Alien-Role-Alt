@@ -6,7 +6,7 @@ use 5.008001;
 use Role::Tiny;
 use Alien::Base 1.45;
 
-# ABSTRACT: Alien::Base role that supports alternates
+# ABSTRACT: (Deprecated) Alien::Base role that supports alternates
 # VERSION
 
 =head1 SYNOPSIS
